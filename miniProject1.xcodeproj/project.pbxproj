@@ -14,6 +14,7 @@
 		1895A15624C9D52C00BCD671 /* miniProject1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1895A15424C9D52B00BCD671 /* miniProject1.xcdatamodeld */; };
 		1895A15824C9D52F00BCD671 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1895A15724C9D52F00BCD671 /* Assets.xcassets */; };
 		1895A15B24C9D52F00BCD671 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1895A15924C9D52F00BCD671 /* LaunchScreen.storyboard */; };
+		1895A16324C9DAD000BCD671 /* long island - Personal Use.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1895A16224C9DAD000BCD671 /* long island - Personal Use.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1895A15724C9D52F00BCD671 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1895A15A24C9D52F00BCD671 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1895A15C24C9D52F00BCD671 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1895A16224C9DAD000BCD671 /* long island - Personal Use.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "long island - Personal Use.ttf"; path = "../../../Downloads/long_island/long island - Personal Use.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				1895A14D24C9D52B00BCD671 /* SceneDelegate.swift */,
 				1895A14F24C9D52B00BCD671 /* ViewController.swift */,
 				1895A15124C9D52B00BCD671 /* Main.storyboard */,
+				1895A16224C9DAD000BCD671 /* long island - Personal Use.ttf */,
 				1895A15724C9D52F00BCD671 /* Assets.xcassets */,
 				1895A15924C9D52F00BCD671 /* LaunchScreen.storyboard */,
 				1895A15C24C9D52F00BCD671 /* Info.plist */,
@@ -131,6 +134,7 @@
 				1895A15B24C9D52F00BCD671 /* LaunchScreen.storyboard in Resources */,
 				1895A15824C9D52F00BCD671 /* Assets.xcassets in Resources */,
 				1895A15324C9D52B00BCD671 /* Main.storyboard in Resources */,
+				1895A16324C9DAD000BCD671 /* long island - Personal Use.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

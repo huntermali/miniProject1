@@ -10,11 +10,20 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var earringText: UITextField!
+    @IBOutlet weak var japanBox: UITextField!
+    @IBOutlet weak var promText: UITextField!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
+    @IBAction func butterflyButton(_ sender: Any) {
+        earringText.text = "Some earrings I made! :)"
+        japanBox.text = "Where I hope to travel next summer (Japan)"
+        promText.text = "Me pretending to be on ANTM in my prom dress"
+    }
+    
 
 }
 
